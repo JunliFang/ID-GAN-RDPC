@@ -1,5 +1,5 @@
 # ID-GAN-RDPC
-A python implementation of ID-GAN compression in "The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs".
+A python implementation of ID-GAN compression in "The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs".(https://doi.org/10.1109/TSP.2024.3411692)
 # Prerequisites
 Python3.6.9, pytorch1.10
 # Progress
